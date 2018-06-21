@@ -1,0 +1,3 @@
+s/-r./File &/1
+s/dr./Directory &/1
+s/lr./SLink &/1

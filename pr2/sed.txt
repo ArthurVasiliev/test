@@ -1,0 +1,19 @@
+total 1876
+-rw-rw-r-- 1 fronto fronto      0 May 25 19:27 2
+-rw-rw-r-- 1 fronto fronto      5 May 23 13:34 count.txt
+lrwxrwxrwx 1 fronto fronto     22 May 28 13:44 lint_count -> /home/fronto/count.txt
+-rw-rw-r-- 1 fronto fronto     29 May 23 13:33 list.txt
+drwxrwxr-x 3 fronto fronto   4096 May 25 19:06 log
+-rw-rw-r-- 1 fronto fronto 564783 May 23 13:36 lognginx.txt
+-rw-rw-r-- 1 fronto fronto 598703 May 23 13:23 logphp1.txt
+-rw-rw-r-- 1 fronto fronto      0 May 23 13:28 logphp2.txt
+-rw-rw-r-- 1 fronto fronto 704906 May 23 13:00 logphp.txt
+-rw-rw-r-- 1 fronto fronto    151 May 25 19:14 run
+-rwxrwxr-x 1 fronto fronto    109 May 22 12:48 script1.sh
+-rwxrwxr-x 1 fronto fronto     92 May 22 13:01 script2.sh
+-rwxrwxr-x 1 fronto fronto     97 May 22 13:16 script3.sh
+-rwxrwxr-x 1 fronto fronto    160 May 22 14:23 script4.sh
+-rw-rw-r-- 1 fronto fronto      0 May 30 12:51 sed.txt
+-rw-rw-r-- 1 fronto fronto    568 May 22 12:07 test
+-rwxrwxr-x 1 fronto fronto     73 May 28 12:24 time.sh
+-rw-rw-r-- 1 fronto fronto   1800 May 28 14:45 time.txt
